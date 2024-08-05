@@ -1,0 +1,25 @@
+{
+  "name": "wljs-demo",
+  "version": "1.0.0",
+  "description": "a collection of web notebooks showcasing the WLJS Notebook features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "notebook",
+    "interactive",
+    "data",
+    "visualization",
+    "wolfram",
+    "language",
+    "symbolic",
+    "programming"
+  ],
+  "author": "Kirill Vasin",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
