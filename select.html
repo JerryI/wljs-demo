@@ -3889,7 +3889,7 @@ core.Offload.destroy = (args, env) => {
             };
 
             socket.onclose = function(event) {
-              console.log(event);
+              return;
               tryreload(() => {
                 alert('Connection lost. Please, update the page to see new changes.')
               });
