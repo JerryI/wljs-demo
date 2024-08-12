@@ -1,4 +1,4 @@
-<|"Notebook" -> <|"FocusedCell" -> CellObj[JerryI`Notebook`CellObj`$350], 
+<|"Notebook" -> <|"FocusedCell" -> CellObj[JerryI`Notebook`CellObj`$52], 
    "Objects" -> <||>, "Path" -> 
     "/users/kirill/Github/demonstartion project/index.wln", 
    "Symbols" -> <||>|>, "Cells" -> 
@@ -17,10 +17,10 @@ cohesion: 62.00,\n      quantity: 3.00,\n      backgroundAlpha: 0.00\n    \
 });\n   });\n   document.head.appendChild(vantaEl);\n  \n});\n  \
 \ndocument.head.appendChild(scriptEl);\n</script>", 
     "Display" -> "codemirror", "Hash" -> 
-     "9e2f27cd-354a-4b2f-8be9-b00fab7d138e", "Invisible" -> True, 
+     "6edd8eb5-ca43-4196-b57a-138cd177c8ff", "Invisible" -> True, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> "\n<style>\n  .ccontainer {\n    background: transparent \
 !important;\n  }\n</style>\n<script>\nvar scriptEl = \
 document.createElement('script');\nscriptEl.src = \
@@ -35,10 +35,10 @@ gyroControls: false,\n      minHeight: 200.00,\n      minWidth: 200.00,\n     \
 cohesion: 62.00,\n      quantity: 3.00,\n      backgroundAlpha: 0.00\n    \
 });\n   });\n   document.head.appendChild(vantaEl);\n  \n});\n  \
 \ndocument.head.appendChild(scriptEl);\n</script>", "Display" -> "html", 
-    "Hash" -> "f5364b2e-801d-4a38-8919-b4495bc73bb9", "Invisible" -> False, 
+    "Hash" -> "210fd4fe-7a29-4584-8473-fb6fd94e4b9f", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n<h1><span style=\"color: #ee7676;\">WLJS \
 Notebook</span><span style=\"color: #3a94c9;\"> Demonstration \
 Project</span></h1>\n\nHere is a compilation of various notebooks showcasing \
@@ -48,10 +48,10 @@ using the `Share` feature.\n\nEach example can be reopened in the app as a \
 regular notebook by clicking on the question mark in the top-right \
 corner.\n\n\n*Boids animation by VANTA.js project*", 
     "Display" -> "codemirror", "Hash" -> 
-     "7cd7e655-86ad-4661-bad0-e4238f4fa5df", "Invisible" -> False, 
+     "0689a18a-be8c-4613-a805-034964d3c4f2", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> "><h1 ><span style=\"color: #ee7676;\">WLJS \
 Notebook</span><span style=\"color: #3a94c9;\"> Demonstration \
 Project</span></h1>\n\nHere is a compilation of various notebooks showcasing \
@@ -60,54 +60,54 @@ frontend, posted as static web pages. You can create your own page like this \
 using the `Share` feature.\n\nEach example can be reopened in the app as a \
 regular notebook by clicking on the question mark in the top-right \
 corner.\n\n\n*Boids animation by VANTA.js project*", "Display" -> "markdown", 
-    "Hash" -> "fff25b46-2066-4aad-8814-4b07e4f6aea1", "Invisible" -> False, 
+    "Hash" -> "a90bc24f-0211-4206-99e1-42dca67f9a49", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n## Useful links\n- \
 [Documentation](https://jerryi.github.io/wljs-docs/)\n- \
 [Releases](https://github.com/JerryI/wolfram-js-frontend/releases)\n- [Github \
 discussions](https://github.com/JerryI/wolfram-js-frontend/discussions)", 
     "Display" -> "codemirror", "Hash" -> 
-     "3bf3f874-4870-48b2-b696-4bda53f64519", "Invisible" -> False, 
+     "c049d632-2280-41b5-a717-800f8a83dffd", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ">## Useful links\n- \
 [Documentation](https://jerryi.github.io/wljs-docs/)\n- \
 [Releases](https://github.com/JerryI/wolfram-js-frontend/releases)\n- [Github \
 discussions](https://github.com/JerryI/wolfram-js-frontend/discussions)", 
     "Display" -> "markdown", "Hash" -> 
-     "582d8e3f-b368-4bc5-a970-df11115913f1", "Invisible" -> False, 
+     "5452eaf0-aaff-4ba3-bc1e-2e39760bcf3e", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n\n<div class=\"p-1 px-2 bg-gray-100 rounded \
 text-gray-700 shadow\"><b>WLJS Notebook</b> is an open-source notebook \
 interface created for a freeware implementation and a standard library of \
 Wolfram Language - Wolfram Engine</div>", "Display" -> "codemirror", 
-    "Hash" -> "6461b7f3-fe80-493b-baf1-22be547fca42", "Invisible" -> False, 
+    "Hash" -> "0fd70aa3-5737-4250-ad99-12ddcbc36896", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> "><div class=\"p-1 px-2 bg-gray-100 rounded text-gray-700 \
 shadow\"><b >WLJS Notebook</b> is an open-source notebook interface created \
 for a freeware implementation and a standard library of Wolfram Language - \
 Wolfram Engine</div>", "Display" -> "markdown", 
-    "Hash" -> "4c4795eb-14f6-46c5-9472-51f22c36ee0e", "Invisible" -> False, 
+    "Hash" -> "b3360888-c2d6-486d-8b34-a7674451f35c", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, <|"Data" -> ".md\n---", 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, <|"Data" -> ".md\n---", 
     "Display" -> "codemirror", "Hash" -> 
-     "0c9107ff-c061-4e54-8136-a694b6b44206", "Invisible" -> False, 
+     "77ec61d4-e174-4ab8-a2d0-41ed3cc1fa3e", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, <|"Data" -> ">---", 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, <|"Data" -> ">---", 
     "Display" -> "markdown", "Hash" -> 
-     "166d7e2e-053c-408b-b0b8-a162e81566f6", "Invisible" -> False, 
+     "35a7ee87-e0cd-4f5f-9190-ffb2fa329805", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n## Basics of Wolfram Language & WLJS\n\nAn introduction \
 to the user interface, cell concepts, symbolic programming, and syntax \
 sugar.\n\n\n<div class=\"mt-2 p-2 px-4 bg-gray-100 rounded text-gray-700 \
@@ -122,10 +122,10 @@ Symbolic Programming to solve quantum mechanics problems analytically\n- \
 analytical fourier expansion of $Sin(x)$ function\n- \
 [Audio](/wljs-demo/reverb.html) a short demo on processing audio samples in \
 the notebook\n- *many more*\n\n</div>\n\n", "Display" -> "codemirror", 
-    "Hash" -> "3795a4cc-5947-48b3-b570-d954423f00e3", "Invisible" -> False, 
+    "Hash" -> "30c23b2e-678e-4462-827d-69bf2c9f5820", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ">## Basics of Wolfram Language & WLJS\n\nAn introduction to \
 the user interface, cell concepts, symbolic programming, and syntax \
 sugar.\n\n\n<div class=\"mt-2 p-2 px-4 bg-gray-100 rounded text-gray-700 \
@@ -140,10 +140,10 @@ Symbolic Programming to solve quantum mechanics problems analytically\n- \
 analytical fourier expansion of $Sin(x)$ function\n- \
 [Audio](/wljs-demo/reverb.html) a short demo on processing audio samples in \
 the notebook\n- *many more*\n\n</div>", "Display" -> "markdown", 
-    "Hash" -> "b7f0d50b-c436-429d-9c05-262c048d4869", "Invisible" -> False, 
+    "Hash" -> "cd18cb01-b0a4-4a9a-94cc-4c6dd3be767c", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n## Data visualization\nSome examples on the data \
 visualization using Woflram Language. Note that examples below do not cover \
 even `10%` of the standard library. Please see the reference section in our \
@@ -174,10 +174,10 @@ wave-equation on a plane\n- [Basic dynamic evaluation \
 2](/wljs-demo/select.html) \n- [Basic dynamic evaluation \
 3](/wljs-demo/rotator.html) \n- *many more*\n\n</div>\n", 
     "Display" -> "codemirror", "Hash" -> 
-     "d98ad087-ec52-437f-9983-f38a784aa8b2", "Invisible" -> False, 
+     "6d8d3065-f180-4e61-99d8-363b84d7e33a", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ">## Data visualization\nSome examples on the data \
 visualization using Woflram Language. Note that examples below do not cover \
 even `10%` of the standard library. Please see the reference section in our \
@@ -208,10 +208,10 @@ wave-equation on a plane\n- [Basic dynamic evaluation \
 2](/wljs-demo/select.html) \n- [Basic dynamic evaluation \
 3](/wljs-demo/rotator.html) \n- *many more*\n\n</div>", 
     "Display" -> "markdown", "Hash" -> 
-     "595e7fd2-ae72-4daf-8810-91bc62a240c2", "Invisible" -> False, 
+     "c8dad294-9fb0-40ec-9773-18ba8db994b5", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n## Making data-driven presentation\nDesigning slides \
 using code\n\n<div class=\"mt-2 p-2 px-4 bg-gray-100 rounded text-gray-700 \
 shadow\">\n  \n- [Introduction](/wljs-demo/intro_slides.html) \n- [Dynamics \
@@ -219,10 +219,10 @@ on slides](/wljs-demo/offload_slide.html)\n- [Animated \
 backgrounds](/wljs-demo/ppt_background.html)\n- [Time-domain \
 spectroscopy](/wljs-demo/fitting_tds_ppt.html) ==interactive \
 presentation==\n- *many more*\n\n</div>", "Display" -> "codemirror", 
-    "Hash" -> "cf16ee13-d486-4971-806c-d5fd5956ef9d", "Invisible" -> False, 
+    "Hash" -> "9bc68208-f79d-4e5c-921b-b89130e62b09", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ">## Making data-driven presentation\nDesigning slides using \
 code\n\n<div class=\"mt-2 p-2 px-4 bg-gray-100 rounded text-gray-700 \
 shadow\">\n  \n- [Introduction](/wljs-demo/intro_slides.html) \n- [Dynamics \
@@ -230,10 +230,10 @@ on slides](/wljs-demo/offload_slide.html)\n- [Animated \
 backgrounds](/wljs-demo/ppt_background.html)\n- [Time-domain \
 spectroscopy](/wljs-demo/fitting_tds_ppt.html) ==interactive \
 presentation==\n- *many more*\n\n</div>", "Display" -> "markdown", 
-    "Hash" -> "9448923c-e3ed-4bdf-9ff5-b1b197a13a9e", "Invisible" -> False, 
+    "Hash" -> "ba1d4e90-1955-4687-8d8a-8f212a1925b0", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ".md\n## Other languages integration\nHaving only one language \
 in the notebook is not enough for your stunning ideas!\n\n<div class=\"mt-2 \
 p-2 px-4 bg-gray-100 rounded text-gray-700 shadow\">\n  \n- [Javascript \
@@ -244,10 +244,10 @@ with HTML and Wolfram Language (WLX)\n- [WLX \
 Tables](/wljs-demo/wlx_tables.html) a basic demo on making HTML tables based \
 on Wolfram Language expressions\n- *many more*\n\n</div>", 
     "Display" -> "codemirror", "Hash" -> 
-     "2f0319a1-e88b-40c1-8066-4e5e2bc32622", "Invisible" -> False, 
-    "MetaOnly" -> False, "Props" -> <|"Hidden" -> False|>, "State" -> "Idle", 
+     "e2b9e240-0b45-4669-869c-12ea881a5553", "Invisible" -> False, 
+    "MetaOnly" -> False, "Props" -> <|"Hidden" -> True|>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> ">## Other languages integration\nHaving only one language in \
 the notebook is not enough for your stunning ideas!\n\n<div class=\"mt-2 p-2 \
 px-4 bg-gray-100 rounded text-gray-700 shadow\">\n  \n- [Javascript \
@@ -258,12 +258,12 @@ with HTML and Wolfram Language (WLX)\n- [WLX \
 Tables](/wljs-demo/wlx_tables.html) a basic demo on making HTML tables based \
 on Wolfram Language expressions\n- *many more*\n\n</div>", 
     "Display" -> "markdown", "Hash" -> 
-     "deba30e2-2b29-4593-9e91-137870155b67", "Invisible" -> False, 
+     "991d7b1e-9cd9-4cd6-8458-07282bcc08e8", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Output", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>, 
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>, 
    <|"Data" -> " ", "Display" -> "codemirror", 
-    "Hash" -> "d0ba673a-f278-4344-b748-0fdd33bf6a3b", "Invisible" -> False, 
+    "Hash" -> "2781f9e4-5bc9-44a1-8d3a-ff2e095028f4", "Invisible" -> False, 
     "MetaOnly" -> False, "Props" -> <||>, "State" -> "Idle", 
     "Type" -> "Input", "UID" -> Null, "Notebook" -> 
-     "7be4e1b5-e4a5-4f1a-aac1-0bd9be56abdc"|>}, "serializer" -> "jsfn4"|>
+     "a983c3ce-af71-4d6b-b276-21d750ff0f12"|>}, "serializer" -> "jsfn4"|>
