@@ -1,5 +1,10 @@
 # WLJS Notebook Demonstration Project
 
+::warning
+***This repository is outdated! Please visit [WLJS Docs](https://jerryi.github.io/wljs-docs/wljs-demo)***
+::
+
+
 This compilation showcases various notebooks that demonstrate how to use the Wolfram Language and the dynamic features of our frontend. These notebooks have been posted as static web pages. You can create your own page like this using the Share feature.
 
 Each example can be reopened in the app as a regular notebook by clicking on the question mark in the top-right corner.
